@@ -7,11 +7,14 @@
 
 ## 🚀 About Me
 
-I am a passionate cybersecurity enthusiast currently pursuing my final year in Computer Science Engineering with a focus on IoT, Cybersecurity, and Blockchain Technology.
-
-I am actively enhancing my skills through practical learning and hands-on experience. Currently, I am enrolled in a cybersecurity course at **Offenso Hackers Academy**, where I am building strong foundations in ethical hacking and security practices.
-
-I am actively looking for **opportunities in cybersecurity** to apply my skills and grow as a security professional.
+- 🎓 Final year B.Tech student in Computer Science Engineering  
+- 💡 Specializing in IoT, Cybersecurity, and Blockchain Technology  
+- 🔐 Passionate about cybersecurity and ethical hacking  
+- 📚 Currently learning cybersecurity at Offenso Hackers Academy  
+- 🧠 Gaining hands-on experience through practical labs and challenges  
+- 🧩 Actively practicing CTFs on Hack The Box and TryHackMe  
+- 🛠️ Familiar with tools like Nmap, Gobuster, and Burp Suite  
+- 🚀 Actively seeking opportunities in the cybersecurity field  
 
 ---
 
